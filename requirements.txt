@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+gspread
+requests
+nltk
+numpy
+oauth2client
+sentence-transformers
+qdrant-client
+langchain
+openai
+python-dotenv
+pdfplumber
+rapidfuzz
+langchain_community
